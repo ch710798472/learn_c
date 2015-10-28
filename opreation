@@ -1,0 +1,2 @@
+iconv -f GBK -t UTF-8 VIM.txt > vim.txt
+gcc -E形成预处理程序 -S生成汇编程序 -g 生成调试程序，然后gdb进入调试，file filename挂载，break n加断点，info breakponit查看，run开始调试，next,continue,step可以进入函数内部 print var 输出变量
